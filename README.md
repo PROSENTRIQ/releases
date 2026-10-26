@@ -12,7 +12,10 @@ Container images (`ghcr.io/prosentriq/agent` and others) and the Helm chart
 (`oci://ghcr.io/prosentriq/charts/prosentriq-agent`) are published to GitHub
 Container Registry with each release.
 
-There are no releases yet; the first one is being prepared.
+Each release also has a `SHA256SUMS` file covering every file in it.
+
+Installing: see [PROSENTRIQ/docs](https://github.com/PROSENTRIQ/docs), starting
+with [Linux hosts](https://github.com/PROSENTRIQ/docs/blob/main/install/linux.md).
 
 ## Verify before you install
 
